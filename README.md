@@ -1,8 +1,3 @@
-# 💤 LazyVim
-
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
-
 ## Requirements
 
 Neovim 0.11+ and a [Nerd Font](https://www.nerdfonts.com/) in the terminal.
