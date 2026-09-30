@@ -1,3 +1,5 @@
+# LazyVim Config
+
 ## Requirements
 
 Neovim 0.11+ and a [Nerd Font](https://www.nerdfonts.com/) in the terminal.
